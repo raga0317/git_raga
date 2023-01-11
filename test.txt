@@ -1,0 +1,6 @@
+Working directory --> Stagging area --> Local repo. --> Remote rep 				
+Ex: test-project --> git add          -->git commit     -->git push
+
+Working directory having 2 stages
+1.track
+2.untrack
