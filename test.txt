@@ -10,3 +10,5 @@ Working directory having 2 stages
 GitLab Repository:
 It is global, 
 we can push and pull data from github repository 
+
+Practice git completely 
